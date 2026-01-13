@@ -27,7 +27,3 @@ I built:
 2. Customer Segmentation
 3. Smoker Impact Analysis
 4. Risk & Cost Drivers
-5. Customer Clustering (optional)
-
-## 📁 Project Structure
-
